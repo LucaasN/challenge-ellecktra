@@ -18,5 +18,5 @@ Para clonar y ejecutar el proyecto sigue estos pasos:
 ## Despliegue
 Se puede testear el proyecto deployado en GitHub Pages:
 
-[GitHub Pages]((https://lucaasn.github.io/challenge-ellecktra/))
+[GitHub Pages](https://lucaasn.github.io/challenge-ellecktra/)
 
