@@ -1,4 +1,4 @@
-# Challenge Maquetación Ellecktra
+# Prueba Técnica Ellecktra
 
 ## Tecnologias usadas:
 
